@@ -18,7 +18,7 @@
   <br>
   <br>
   <a href="https://www.acmicpc.net/user/gms08194"><img src="https://img.shields.io/badge/BOJ-3766AB?style=flat-square&logo=Bloglovin&logoColor=white"/></a>&nbsp </a>
-  <a href="[https://codeforces.com/profile/gms08194](https://www.algospot.com/user/profile/170234)"><img src="https://img.shields.io/badge/Algospot-C02942?style=flat-square&logo=circleci&logoColor=white"/></a>&nbsp </a>
+  <a href="https://www.algospot.com/user/profile/170234"><img src="https://img.shields.io/badge/Algospot-C02942?style=flat-square&logo=circleci&logoColor=white"/></a>&nbsp </a>
 </p>
 
 [알고리즘 문제 해결 과정](https://github.com/Mingyum-Kim/Algorithm)을 꾸준히 기록 중입니다.
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins%20Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 </p>
