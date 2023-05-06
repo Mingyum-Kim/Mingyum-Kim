@@ -70,6 +70,7 @@
 |2021.07 ~ 2021.10|[market-gouter](https://github.com/haeun-i/market-gouter)|식품 구매 및 레시피 공유 커뮤니이 웹사이트 개발|
 |2021.01 ~ 2021.09|[한이음 ICT 멘토링](https://mingyum119.tistory.com/99)|라즈베리파이 기반 얼굴인식 도어락 제작 프로젝트|
 
+* * * 
 
 ### ⭐ Experiences
 
