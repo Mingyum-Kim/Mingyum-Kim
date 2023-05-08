@@ -7,7 +7,7 @@
   
 **가치있는 서비스**를 **안정적으로** 제공하는 Server Developer을 목표로 꾸준히 공부하고 있는 개발자 꿈나무🌳 입니다. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingyum-Kim&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-flame-nine.vercel.app)
 
 * * * 
 
