@@ -64,10 +64,10 @@
 |---|---|---|
 |2022.11|[Runlv](https://github.com/University-MakeUs-Challenge/3rd-hackathon-Team4)|운동을 통해 대학과 대학을 연결하는 서비스 제작 프로젝트|
 |2022.06 ~ 2022.08|[ICE LIFE](https://github.com/ICE-LIFE/ICE-LIFE-Backend)|정보통신공학과 학생회 공식 홈페이지 제작 프로젝트|
-|2022.01|[ECOding](https://github.com/Mingyum-Kim/Inha-hackathon-ECOding)|환경 보호를 위해 쓰레기를 분류하여 사용자의 분리수거를 도와주는 어플|
+|2022.01|[에코 버디](https://github.com/Mingyum-Kim/Inha-hackathon-ECOding)|환경 보호를 위해 쓰레기를 분류하여 사용자의 분리수거를 도와주는 어플|
 |2021.12 ~ 2022.03|[IBAS](https://github.com/InhaBas/Inhabas.com-api)|인하대학교 빅데이터 동아리 IBAS 웹앱, REST 개편 프로젝트|
 |2021.08|[int-i 코드 저장소](https://github.com/int-i/int-i-official-site)|학과 소모임 '인트아이'의 익명 질문 공간 및 코드 저장소 개발|
-|2021.07 ~ 2021.10|[market-gouter](https://github.com/haeun-i/market-gouter)|식품 구매 및 레시피 공유 커뮤니이 웹사이트 개발|
+|2021.07 ~ 2021.10|[market-gouter](https://github.com/haeun-i/market-gouter)|식품 구매 및 레시피 공유 커뮤니티 웹사이트 개발|
 |2021.01 ~ 2021.09|[한이음 ICT 멘토링](https://mingyum119.tistory.com/99)|라즈베리파이 기반 얼굴인식 도어락 제작 프로젝트|
 
 * * * 
