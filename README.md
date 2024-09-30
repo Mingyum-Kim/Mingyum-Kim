@@ -62,7 +62,7 @@
 
 ##### 2023.07 - 2023.10
 
-목표 설정 및 달성을 도와주는 서비스, **마일스톤 (MileStone) **
+목표 설정 및 달성을 도와주는 서비스, **마일스톤 (MileStone)**
 
 😺[Github](https://github.com/dnd-side-project/dnd-9th-1-backend)   🍎[AppStore](https://apps.apple.com/kr/app/milestone/id6465692785)
 
