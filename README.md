@@ -3,7 +3,10 @@
 <a href="https://mingyum119.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:mingyum119@naver.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-
+Interested In:
+* Continuous study to improve technical skills to achieve the team's goals
+* Smooth collaboration with team members
+* Designed for user experience
 
 * * * 
 
@@ -48,23 +51,9 @@
 ### 👩‍💻 Scholarship
 
 ##### 2024.02 - ing
+Woowacourse 6th Web backend
 우아한테크코스 6기 웹 백엔드
 
-##### 2020.02 - 2024.08 
+##### 2020.02 - 2024.08 (Graduated)
+Inha University, Information & Communication Engineering 
 인하대학교 정보통신공학과 20학번
-
-
-### ⭐ Projects
-
-#### 2024.07 - ing
-
-모임을 쉽게. 모여봐요 우리의 다락방 **모우다**
-
-##### 2023.07 - 2023.10
-
-목표 설정 및 달성을 도와주는 서비스, **마일스톤 (MileStone)**
-
-😺[Github](https://github.com/dnd-side-project/dnd-9th-1-backend)   🍎[AppStore](https://apps.apple.com/kr/app/milestone/id6465692785)
-
-
-* * * 
