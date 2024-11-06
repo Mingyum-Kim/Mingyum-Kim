@@ -51,9 +51,9 @@ Interested In:
 ### 👩‍💻 Scholarship
 
 ##### 2024.02 - ing
-Woowacourse 6th Web backend
+Woowacourse 6th Web backend <br>
 우아한테크코스 6기 웹 백엔드
 
 ##### 2020.02 - 2024.08 (Graduated)
-Inha University, Information & Communication Engineering 
+Inha University, Information & Communication Engineering <br>
 인하대학교 정보통신공학과 20학번
