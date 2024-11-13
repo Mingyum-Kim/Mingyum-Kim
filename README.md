@@ -25,7 +25,7 @@ I'm interested in ...
 
 | Date | Experience | Desciption |
 | --- | --- | --- |
-| 2024.02 - ing | [Woowacourse](https://www.woowacourse.io/backend) |  |
+| 2024.02 - ing | [Woowacourse](https://www.woowacourse.io/backend) | • Learned TDD, Clean Code, unit testing, OOP, and database concepts using Java. <br> • Studied technologies for service operation, including Spring Boot, JPA, infrastructure, and networks. <br> • Enhanced growth mindset, collaboration, and writing skills through flexibility studies, writing missions, and UX writing. <br> • Gained extensive collaboration experience through code reviews, pair programming, and team projects. <br> • Wrote weekly retrospectives, reflecting on ways to achieve continuous growth as an engineer. <br> |
 | 2023.07 - 09 | [DND 9th Server](https://dnd.ac/) | IT nonprofit organization for developers and designers to continually grow, <br> I developed an [iOS app](https://apps.apple.com/kr/app/milestone/id6465692785) using Java and Spring Boot. |
 | 2022.01 - 12 | [Student council president](https://ice.inha.ac.kr/ice/2246/subview.do) | • 1 year student council president <br> • 2 year department head of student council <br> • promoting academic support, welfare, and community. |
 
