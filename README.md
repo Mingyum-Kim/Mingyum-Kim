@@ -1,16 +1,29 @@
-## Hello, World! 👋
+# 🙋‍♀️ Mingyum Kim (Anna)
 
-<a href="https://mingyum119.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="mailto:mingyum119@naver.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+Junior Backend Engineer 🌱
 
-Interested In:
-* Continuous study to improve technical skills to achieve the team's goals
-* Smooth collaboration with team members
-* Designed for user experience
+I'm interested in ...
+* ❤ Designed for user experience
+* 👩‍💻Continuous study to improve technical skills for achieving the team's goals
+* 🤝Smooth collaboration with team members
 
 * * * 
 
-### 🧩 Problem Solving 
+## 👩‍💻 Education
+
+### [Woowacourse 6th web backend](https://www.woowacourse.io/backend)
+##### 2024.02 - ing
+* Misson-based pair programming and code review
+* Plan, Develop, Deploy a Service through a team project
+
+### [Inha University](https://www.inha.ac.kr/)
+##### 2020.02 - 2024.08 (Graduated)
+* B.S. in [Information & Communication Engineering](https://ice.inha.ac.kr/)
+* 22nd Student Council President for one year
+
+## 📝 Experiences
+
+## 🧩 Problem Solving 
 
 <p>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gms08194">
@@ -18,9 +31,7 @@ Interested In:
 </a>&nbsp </a>
 </p>
 
-* * * 
-
-### 🛠 Tech Stacks 
+## 🛠 Tech Stacks 
 
 ###### Programming Languages
 <p>
@@ -40,20 +51,8 @@ Interested In:
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 </p>
   
-
 * * *
-
-### 👩‍💻 Scholarship
-
-##### 2024.02 - ing
-Woowacourse 6th Web backend <br>
-우아한테크코스 6기 웹 백엔드
-
-##### 2020.02 - 2024.08 (Graduated)
-Inha University, Information & Communication Engineering <br>
-인하대학교 정보통신공학과 20학번
