@@ -14,14 +14,21 @@ I'm interested in ...
 ### [Woowacourse 6th web backend](https://www.woowacourse.io/backend)
 ##### 2024.02 - ing
 * Misson-based pair programming and code review
-* Plan, Develop, Deploy a Service through a team project
+* Plan, develop, deploy a service through a team project
 
 ### [Inha University](https://www.inha.ac.kr/)
 ##### 2020.02 - 2024.08 (Graduated)
 * B.S. in [Information & Communication Engineering](https://ice.inha.ac.kr/)
-* 22nd Student Council President for one year
+* 22nd Student council president for one year
 
 ## 📝 Experiences
+
+| Date | Experience | Desciption |
+| --- | --- | --- |
+| 2024.02 - ing | [Woowacourse](https://www.woowacourse.io/backend) |  |
+| 2023.07 - 09 | [DND 9th Server](https://dnd.ac/) | IT nonprofit organization for developers and designers to continually grow, <br> I developed an [iOS app](https://apps.apple.com/kr/app/milestone/id6465692785) using Java and Spring Boot. |
+| 2022.01 - 12 | [Student council president](https://ice.inha.ac.kr/ice/2246/subview.do) | • 1 year student council president <br> • 2 year department head of student council <br> • promoting academic support, welfare, and community. |
+
 
 ## 🧩 Problem Solving 
 
