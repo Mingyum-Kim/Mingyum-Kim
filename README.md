@@ -9,10 +9,17 @@ I'm interested in ...
 
 * * * 
 
-## 👩‍💻 Education
+## 👩‍💻 Work Experience
+
+### DeliveryHero 
+##### 2025.03 - ing
+* I work as a Backend Software Engineer at Delivery Hero (Logistics - Workforce - Rider Rewards), developing and maintaining services related to rider payments and incentives
+* I focus on building reliable backend systems and improving their performance and observability to handle high traffic across 45+ countries
+
+## ✏️ Education
 
 ### [Woowacourse 6th web backend](https://www.woowacourse.io/backend)
-##### 2024.02 - ing
+##### 2024.02 - 2024.11
 * Misson-based pair programming and code review
 * Plan, develop, deploy a service through a team project
 
